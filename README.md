@@ -82,7 +82,7 @@ HR-Employee-Attrition-and-Workforce-Analytics-Dashboard/
 
 ## Run locally
 ```bash
-git clone https://github.com/<your-username>/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard.git
+git clone https://github.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard.git
 cd HR-Employee-Attrition-and-Workforce-Analytics-Dashboard
 pip install -r requirements.txt
 python -m streamlit run app.py
