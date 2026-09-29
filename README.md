@@ -2,7 +2,7 @@
 
 An interactive dashboard that shows who is leaving a company, which factors are linked to attrition, and where HR should focus retention efforts. Built with Python, Streamlit and Plotly on the IBM HR Analytics dataset.
 
-**Live demo:** _add your Streamlit Cloud link here after deploying_
+**Live demo:** https://hr-employee-attrition-and-workforce-analytics-dashboard-dirquy.streamlit.app/
 
 ![Dashboard demo](screenshots/demo.gif)
 
